@@ -1,0 +1,157 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1594711491140">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_consulting-master.css" crc="4017276907" ref="consulting:techworks"/>
+    <file name="nomq_preview_master_consulting-master.css" crc="6790136" ref="consulting:techworks"/>
+    <file name="master_master.css" crc="63509686" ref="our-businesses:index:about-us"/>
+    <file name="nomq_preview_master_master.css" crc="85193633" ref="our-businesses:index:about-us"/>
+    <file name="our-businesses.css" crc="196640726" ref="our-businesses"/>
+    <file name="nomq_our-businesses.css" crc="151840814" ref="our-businesses"/>
+    <file name="iefonts_our-businesses.css" crc="3824530138" ref="our-businesses"/>
+    <file name="consulting.css" crc="4264486222" ref="consulting"/>
+    <file name="nomq_consulting.css" crc="376996860" ref="consulting"/>
+    <file name="iefonts_consulting.css" crc="3824530138" ref="consulting"/>
+    <file name="index.css" crc="335946156" ref="index"/>
+    <file name="nomq_index.css" crc="471794889" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="about-us.css" crc="196640726" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="151840814" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
+    <file name="techworks.css" crc="3999202359" ref="techworks"/>
+    <file name="nomq_techworks.css" crc="3986257179" ref="techworks"/>
+    <file name="iefonts_techworks.css" crc="3824530138" ref="techworks"/>
+  </folder>
+  <folder name="assets">
+    <file name="-2-ico_menu_open.svg" crc="463439426" seo="true" mt="1527351548000"/>
+    <file name="-3-ico_menu_close.svg" crc="362653298" seo="true" mt="1524822810000"/>
+    <file name="-8-video_2.mp4" crc="125771816" seo="true" mt="1527410010000"/>
+    <file name="-9-img_poster.jpg" crc="3799825602" seo="true" mt="1527409680000"/>
+    <file name="-19-img_poster_home.jpg" crc="3828630861" seo="true" mt="1527427952000"/>
+    <file name="muse-for-you---responsive-fullscreen-video-widget-1.3.mulib" crc="429240671" seo="true" mt="1518980700000"/>
+    <file name="pexels-videos-1966382.mp4" crc="4092483945" seo="true" mt="1594700036000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="museutils.js" crc="3939489907" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="whatinput.js" crc="86476730" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="museconfig.js" crc="128606099" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="require.js" crc="4177726516" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="consulting:techworks"/>
+    <file name="webpro.js" crc="3856315280" ref="techworks"/>
+    <file name="form_check.php" crc="4108222811" ref="techworks"/>
+    <file name="form_throttle.php" crc="503802655" ref="techworks"/>
+    <file name="form_process.php" crc="260214869" ref="techworks"/>
+    <file name="form-u6296.php" crc="248810662" ref="techworks"/>
+  </folder>
+  <folder name="images">
+    <file name="-6-ico_play.svg" crc="203959591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-6-ico_play_poster_.png" crc="4187304674" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:consulting:techworks:about-us:our-businesses"/>
+    <file name="picture1.png" crc="3809151457" seo="true" ref="index:about-us:our-businesses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="our-businesses" alt=""/>
+    </file>
+    <file name="picture1-crop-u5490.png" crc="496709447" seo="true" ref="index:about-us:our-businesses">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="our-businesses" alt=""/>
+      <caption webpage="our-businesses" alt=""/>
+      <caption webpage="our-businesses" alt=""/>
+      <caption webpage="our-businesses" alt=""/>
+    </file>
+    <file name="-7-img_about_hero.jpg" crc="502682806" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-10-img_services.jpg" crc="479225538" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-11-img_service_1.jpg" crc="3779947994" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-12-img_service_2.jpg" crc="170696568" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-13-img_service_3.jpg" crc="4121514346" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-14-img_service_4.jpg" crc="89208586" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-15-background_plans.jpg" crc="361333912" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-5-ico_pencil.svg" crc="4336697" seo="true" ref="consulting">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+    </file>
+    <file name="-5-ico_pencil_poster_.png" crc="49454854" ref="consulting"/>
+    <file name="-16-img_plan_1.svg" crc="4243957506" ref="consulting"/>
+    <file name="-16-img_plan_1_poster_u9583.png" crc="4110708871" ref="consulting"/>
+    <file name="-17-img_plan_2.svg" crc="54861386" ref="consulting"/>
+    <file name="-17-img_plan_2_poster_u9575.png" crc="4235454754" ref="consulting"/>
+    <file name="-10-img_services-u5681-fr.jpg" crc="232740399" ref="consulting"/>
+    <file name="-10-img_services-u5681-fr2.jpg" crc="829854" ref="consulting"/>
+    <file name="-11-img_service_1-u5795-fr.jpg" crc="3867476701" ref="consulting"/>
+    <file name="-12-img_service_2-u5841-fr.jpg" crc="4105374694" ref="consulting"/>
+    <file name="-13-img_service_3-u5896-fr.jpg" crc="97420386" ref="consulting"/>
+    <file name="-14-img_service_4-u5985-fr.jpg" crc="349076996" ref="consulting"/>
+    <file name="-18-img_contact_hero.jpg" crc="398252119" ref="techworks">
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+    </file>
+    <file name="transparent white for website.png" crc="172232947" seo="true" ref="consulting:techworks">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="techworks" alt=""/>
+    </file>
+    <file name="transparent white for website-crop-u11455.png" crc="3850919989" seo="true" ref="consulting:techworks">
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="consulting" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+      <caption webpage="techworks" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3972121651" seo="true" mt="1594710671946" redirect="true"/>
+  <file name="consulting.html" crc="500644363" seo="true" mt="1594710545422" redirect="true"/>
+  <file name="techworks.html" crc="4046795590" seo="true" mt="1594710545422" redirect="true"/>
+  <file name="about-us.html" crc="4114730502" seo="true" mt="1594710671946" redirect="true"/>
+  <file name="our-businesses.html" crc="3987280562" seo="true" mt="1594710671946" redirect="true"/>
+</manifest>
